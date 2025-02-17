@@ -1,0 +1,33 @@
+{
+  "name": "ecommerce",
+  "version": "1.0.0",
+  "description": "A MVP of a generic Ecommerce API",
+  "keywords": [
+    "API",
+    "Ecommerce",
+    "Express",
+    "PostgreSQL",
+    "Node"
+  ],
+  "homepage": "https://github.com/Cerne17/Ecommerce-API#readme",
+  "bugs": {
+    "url": "https://github.com/Cerne17/Ecommerce-API/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cerne17/Ecommerce-API.git"
+  },
+  "license": "MIT",
+  "author": "Cerne17",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "prettier": "^3.5.1"
+  }
+}
